@@ -41,7 +41,7 @@ features                                  :
     
   - title                                 : Protects From Malware Malicious Sites
     description                           : 
-    fontawesome_icon_name                 : shield-virus
+    fontawesome_icon_name                 : shield-alt
 
   - title                                 : Speedups Loading
     description                           : 
