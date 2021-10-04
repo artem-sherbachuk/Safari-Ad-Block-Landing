@@ -41,11 +41,11 @@ features                                  :
     
   - title                                 : Protects From Malware Malicious Sites
     description                           : 
-    fontawesome_icon_name                 : shield
+    fontawesome_icon_name                 : shield-virus
 
   - title                                 : Speedups Loading
     description                           : 
-    fontawesome_icon_name                 : tachometer-fastest
+    fontawesome_icon_name                 : tachometer-alt
 
   - title                                 : Block adults content
     description                           : 
